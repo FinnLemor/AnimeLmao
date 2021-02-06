@@ -1,0 +1,36 @@
+h1{
+    color: #c92d6e
+}
+h2{
+    color: rgb(247, 224, 228);
+}
+h3{
+    justify-content: space-between;
+    color: rgb(229, 194, 206)
+}
+{
+    border:dotted
+}
+.header{
+    background-color: rgb(247, 224, 228);
+    display: flex;
+    justify-content: space-evenly
+}
+
+.grid{
+    background-color: rgb(247, 224, 228);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+.footer{
+    background-color: rgb(247, 224, 228);
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center
+}
