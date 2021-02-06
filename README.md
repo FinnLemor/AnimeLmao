@@ -1,0 +1,2 @@
+# AnimeLmao
+This is easy :)
